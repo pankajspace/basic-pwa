@@ -1,4 +1,6 @@
-# robofriends-pwa
+Demo : https://pankajspace.github.io/basic-pwa/
+
+# basic-pwa
 adding PWA capabilities to a react app
 
 To run the project:
